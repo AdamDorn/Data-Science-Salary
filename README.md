@@ -43,10 +43,20 @@ Key visualizations include:
 
 ---
 
+Power BI
+
+Dashboard showcasing different data roles and their respective median salaries.
+- Dashboard using cards and median salary per job title.
+- Dashboard using line charts to show median salary by job title over time.
+- Dashboard using a card to showcase median salary and 3 separate slicers to filter job experience, company size, and job title.
+  
+---
+
 Tech Stack
 
 - Python (Pandas, NumPy, Seaborn, Matplotlib)
 - Jupyter Notebook
+- Power BI
 - Git & GitHub
 
 ---
